@@ -18,5 +18,5 @@ Em seguida, para entrar no jogo:
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/Menus/screenSaver.png" width="500" height="400" />
+<img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/Menus/screenSaver.png" width="250" height="200" />
  | <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/LoveStory/Frame35.png" width="500" height="400" />
