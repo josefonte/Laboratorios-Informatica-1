@@ -12,8 +12,9 @@ Em seguida, para entrar no jogo:
 
     $  ./GameCompleted
 
-<p float="center">
+<p float="left">
   <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/Menus/screenSaver.png" width="330" />
-  <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/LoveStory/Frame35.png" width="330" /> 
   <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/Menus/JogoNormal.png" width="330" />
+  <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/LoveStory/Frame35.png" width="330" /> 
+  
 </p>
