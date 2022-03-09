@@ -1,4 +1,4 @@
-# PACMAN-Laboratórios de Informática I
+# PACMAN - Laboratórios de Informática I
 
 ### __Grupo67__ - José Eduardo Rocha *a97270*  &  José Pedro Fonte *a91775*  
 
