@@ -15,5 +15,6 @@ Em seguida, para entrar no jogo:
 
 
 ![Pacman](./src/ImagensParaPacman/Menus/screenSaver.png)
+<img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/Menus/screenSaver.png" width="200" height="400" />
 
 
