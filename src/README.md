@@ -26,3 +26,6 @@ The file `ImagensParaPacman` contains all the images used to generate the visual
 
 ## Documentation on Haddock
 The file `doc/html` contains the html compiled code from documentation made using Haddock. 
+
+## How to take the most out of our game
+The classic experience is the normal mode with a selection of different maps, but in order to take the most out of our game we strongly advise you to play the MiniGames, in particular, the PacDungeon Game Mode. If you are able to win that game mode you'll be rewarded with a surprise :D  
