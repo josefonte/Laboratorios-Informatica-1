@@ -4,7 +4,7 @@
 
 Um jogo baseado no clássico de arcada PACMAN, criado em Haskell no âmbito da cadeira de Laboratórios de Informática I, no mestrado integrado em Engenharia Informática da Universidade do Minho. @1ºSemestre | 1º Ano | Ano Letivo 20/21
 
-O ficheiro principal é `GameCompleted.hs` . Para compilar e gerar o executável deve entrar na diretoria ../src e correr o comando para compilar:
+O ficheiro principal é `GameCompleted.hs` . Para compilar e gerar o executável deve entrar na diretoria `./src` e correr o comando para compilar:
 
     $  ghc GameCompleted.hs
 
