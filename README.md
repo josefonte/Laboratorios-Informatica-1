@@ -12,6 +12,3 @@ Em seguida, para entrar no jogo:
 
     $  ./GameCompleted
 
-
-
-![Pacman](./src/ImagensParaPacman/Menus/screenSaver.png)
