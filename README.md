@@ -15,3 +15,9 @@ Em seguida, para entrar no jogo:
 <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/Menus/screenSaver.png" width="400" height="300" />
 <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/LoveStory/Frame35.png" width="400" height="300" />
 <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/Menus/JogoNormal.png" width="400" height="300" />
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/Menus/screenSaver.png" width="100" />
+  <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/LoveStory/Frame35.png" width="100" /> 
+  <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/Menus/JogoNormal.png" width="100" />
+</p>
