@@ -11,3 +11,6 @@ O ficheiro principal é `GameCompleted.hs` . Para compilar e gerar o executável
 Em seguida, para entrar no jogo: 
 
     $  ./GameCompleted
+
+
+![Pacman](./src/ImagensParaPacman/Menus/screenSaver.png)
