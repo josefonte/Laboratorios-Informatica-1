@@ -19,8 +19,8 @@ Em seguida, para entrar no jogo:
   <img src="https://github.com/josefonte/Laboratorios-Informatica-1/blob/main/src/ImagensParaPacman/Menus/mapsMENUBUTTON.png" width="25%" /> 
   <img src="https://github.com/josefonte/Laboratorios-Informatica-1/blob/main/src/ImagensParaPacman/Menus/MiniGamesPacDungeon.png" width="25%" /> 
   <img src="https://github.com/josefonte/Laboratorios-Informatica-1/blob/main/src/ImagensParaPacman/Menus/DevelopersMenu.png" width="24%" />
-  <img src="hhttps://github.com/josefonte/Laboratorios-Informatica-1/blob/main/src/ImagensParaPacman/Menus/killPacmanLOSEplayagain.png" width="24%" /> 
+  <img src="https://github.com/josefonte/Laboratorios-Informatica-1/blob/main/src/ImagensParaPacman/Menus/killPacmanLOSEplayagain.png" width="24%" /> 
   <img src="https://github.com/josefonte/Laboratorios-Informatica-1/blob/main/src/ImagensParaPacman/Menus/PauseMENUbacktomenu.png" width="25%" />
   <img src="https://github.com/josefonte/Laboratorios-Informatica-1/blob/main/src/ImagensParaPacman/Menus/MiniGamesPacDungeon.png" width="25%" /> 
-  <img src="hhttps://github.com/josefonte/Laboratorios-Informatica-1/blob/main/src/ImagensParaPacman/Menus/killPacmanLOSEplayagain.png" width="24%" /> 
+  <img src="https://github.com/josefonte/Laboratorios-Informatica-1/blob/main/src/ImagensParaPacman/Menus/killPacmanLOSEplayagain.png" width="24%" /> 
 </p>
