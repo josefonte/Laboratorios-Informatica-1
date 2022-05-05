@@ -15,5 +15,6 @@ Em seguida, para entrar no jogo:
 <p float="center">
   <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/Menus/screenSaver.png" width="100%" />
   <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/Menus/MainInc.png" width="32%" /> 
+  <img src="https://github.com/josefonte/Laboratorios-Informatica-1/blob/main/src/ImagensParaPacman/Menus/MiniGamesPacDungeon.png" width="32%" /> 
   <img src="https://raw.githubusercontent.com/josef8/Laboratorios-de-Informatica-I/main/src/ImagensParaPacman/Menus/JogoNormal.png" width="100%" />
 </p>
