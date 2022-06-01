@@ -1,4 +1,4 @@
-# PACMAN - Laboratórios de Informática I ᗧ͇̿ · · ᗣ͇̿ᗣ͇̿ᗣ͇̿ᗣ͇̿
+# PACMAN - Laboratórios de Informática I ᗧ ---- ᗣᗣᗣᗣ
 
 ### __Grupo67__ - [José Eduardo Rocha](https://github.com/Eduard0Rocha) &  [José Fonte](https://github.com/josefonte)  
 
